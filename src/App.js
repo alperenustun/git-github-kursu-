@@ -10,6 +10,15 @@ function App() {
           Git & Github Öğreniyorum. -Kutay & Alperen
           Deneme1
         </p>
+        <p>
+          ÖZELLİK 1
+        </p>
+        <p>
+          ÖZELLİK 2
+        </p>
+        <p>
+          ÖZELLİK 3
+        </p>
         <a
           className="App-link"
           href="https://reactjs.org"
